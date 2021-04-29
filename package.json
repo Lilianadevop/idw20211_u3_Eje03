@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "numalet": "^0.2.1",
+    "number-to-words": "^1.2.4"
+  }
+}
